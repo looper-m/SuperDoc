@@ -1,2 +1,2 @@
 # SuperMed
-A superior medical and health search engine
+A superior medical search engine
