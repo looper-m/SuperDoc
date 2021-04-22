@@ -1,2 +1,2 @@
-# SuperMed
-A superior medical search engine
+# SuperDoc
+A superior medical search engine built using ElasticSearch
