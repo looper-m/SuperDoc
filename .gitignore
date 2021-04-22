@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+
+src/documents/data.json
+src/documents/mplus_topics.xml
+src/documents/solr_synonyms.txt
